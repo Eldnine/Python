@@ -1,2 +1,2 @@
 # Python
-# Some light python projects
+Some light python projects
