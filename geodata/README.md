@@ -1,3 +1,5 @@
+This project is the exercise of COURSERA course Using Databases with Python
+
 Using the Google Geocoding API with a Database and 
 Visualizing data on Google Map
 
