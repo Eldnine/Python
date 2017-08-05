@@ -1,4 +1,4 @@
-Wrap a python script to .exe file and set it auto-run when PC logins in. 
+Wrap a python script to .exe file and set it auto-run when PC logins in. It helps my parents to use their PC easier.
 
 ## Prerequisites: 
 * PyInstaller
