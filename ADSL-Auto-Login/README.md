@@ -1,4 +1,4 @@
-This is a practice to wrap a python script to .exe file and set it auto-run when PC logins in. 
+Wrap a python script to .exe file and set it auto-run when PC logins in. 
 
 ## Prerequisites: 
 * PyInstaller
